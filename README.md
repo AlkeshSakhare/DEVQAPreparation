@@ -5,3 +5,7 @@ To run project in Intellij
 To create testng.xml in Intellj
 
     Add plugin Create TestNG XML -> Restart IDE -> Right Click on Project and Select Create TestNG XML
+
+To Remove any directory/file in git repository
+
+    git rm --cache -r .idea
