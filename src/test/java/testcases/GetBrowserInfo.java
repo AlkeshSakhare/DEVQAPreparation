@@ -1,4 +1,4 @@
-package com.test.seleniumbasic;
+package testcases;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.JavascriptExecutor;
